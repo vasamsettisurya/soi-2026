@@ -15,6 +15,6 @@ aws internship
 
 ~~surya~~avinash
 
-h<sub>2>/sub<
+h<sub>2</sub>
 
-(a+b)<sup>2>/sup<
+(a+b)<sup>2</sup>
