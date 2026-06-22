@@ -68,4 +68,11 @@ c=3
 
 -  [ ] option3
 
+| Name  | College | Department |
+|-------|---------|------------|
+| Bindu | BVC     | ECE        |
+| Surya | BVC     | ECE        |
+
+
+
   
