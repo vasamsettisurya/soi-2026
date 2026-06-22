@@ -24,3 +24,11 @@ h<sub>2</sub>
 >note:surya s/o krishna
 
 i am `surya`
+
+i am ```surya```
+
+```
+a=1
+b=2
+c=3
+```
