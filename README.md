@@ -34,3 +34,5 @@ c=3
 ```
 
 [chatgpt](https://chatgpt.com/)
+
+![chatgpt](https://www.internetmatters.org/advice/apps-and-platforms/entertainment/chatgpt/)
