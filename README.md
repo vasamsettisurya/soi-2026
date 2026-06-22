@@ -60,4 +60,12 @@ c=3
 
   +three
 
-  ----
+  -----
+
+-  [ ] optin1
+  
+-  [ ] option2
+
+-  [ ] option3
+
+  
