@@ -36,3 +36,5 @@ c=3
 [chatgpt](https://chatgpt.com/)
 
 ![chatgpt](https://www.internetmatters.org/advice/apps-and-platforms/entertainment/chatgpt/)
+
+![chatgpt](https://www.vecteezy.com/vector-art/21059827-chatgpt-logo-chat-gpt-icon-on-white-background)
