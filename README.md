@@ -62,7 +62,7 @@ c=3
 
   -----
 
--  [ ] optin1
+-  [X] optin1
   
 -  [ ] option2
 
