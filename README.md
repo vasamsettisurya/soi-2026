@@ -9,7 +9,7 @@ aws internship
 
 ##### soi-2026
 
-vasamsetti[^1][^1]:surya sri sai avinash
+vasamsetti[^1]
 
 *surya sri sai avinash*
 
@@ -52,6 +52,9 @@ c=3
 ##unorderd list
 
 - one
+
+  [^1]:surya sri sai avinash
+
 
 - two
 
